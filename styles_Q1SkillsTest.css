@@ -1,0 +1,27 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-image: url(https://www.shutterstock.com/image-vector/thin-circuit-trace-lines-blue-600nw-2466942381.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align:center;
+}
+
+h1 {
+    font-weight:bolder;
+    display: block;
+    background-color:rgb(168, 208, 208);
+    margin:auto;
+    width: 900px;
+    color:rgb(33, 66, 98)
+}
+
+
+div {
+    font-weight:bold;
+    display: block;
+    background-color:rgb(152, 172, 216);
+    margin:auto;
+    width:600px;
+    color:#0f565b;
+    height:1150px;
+}
